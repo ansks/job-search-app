@@ -24,3 +24,11 @@ yarn-error.log*
 .idea/
 .vscode/
 *.swp
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/generated_plugin_registrant.dart
